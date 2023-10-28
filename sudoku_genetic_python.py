@@ -1,11 +1,4 @@
 #!/usr/bin/env python3
-"""
-sudoku_genetic_python - Solve Sudoku with Python and genetic algorithm
-Version : 1.0.0
-Author : Hamidreza Mahdavipanah
-Repository: http://github.com/mahdavipanah/sudoku_genetic_python
-License : MIT License
-"""
 from math import sqrt
 from random import shuffle, randint
 import argparse
